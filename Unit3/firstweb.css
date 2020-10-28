@@ -1,0 +1,12 @@
+.paragraph {
+color: green;
+font-weight: strong;
+font-size: 12 pt;
+}
+.pagetitle {
+font-size: 16 pt;
+font-family: Times;
+font-weight: strong;
+color: #000000;
+text-align: center;
+}
